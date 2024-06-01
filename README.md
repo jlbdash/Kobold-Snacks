@@ -1,2 +1,4 @@
 # Kobold-Snacks
-A Branding Project for a Bakery
+A Branding School Project for a Bakery
+
+Using Photoshop and Illustrator
